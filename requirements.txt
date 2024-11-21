@@ -1,0 +1,10 @@
+requests
+pandas 
+numpy
+torch 
+tensorflow-metal
+rich
+emoji
+transformers
+langchain
+langchain-ollama
