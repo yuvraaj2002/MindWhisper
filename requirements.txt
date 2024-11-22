@@ -8,3 +8,7 @@ emoji
 transformers
 langchain
 langchain-ollama
+nltk
+openai
+spellchecker
+textblob
